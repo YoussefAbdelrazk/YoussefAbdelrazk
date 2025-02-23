@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next js**
 
-- 👨‍💻 All of my projects are available at [https://hazo-protfolio.netlify.app/](https://yousefabdelrazk-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://hazo-protfolio.netlify.app/](https://youssefabdelrazk-portfolio.netlify.app/)
 
 - 💬 Ask me about **react js**
 
