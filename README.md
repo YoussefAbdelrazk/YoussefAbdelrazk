@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -54,8 +50,22 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/YoussefAbdelrazk/YoussefAbdelrazk/output/snake.svg" alt="Snake animation" />
+
+###
+
+<p align="left">🧑‍🎓 I have a Bachelor’s in Computer Science</p>
+
+###
+
+<p align="left">💻 Front-End Developer at Catalyst Marketing Agency</p>
+
+###
+
+<p align="left">🌱 I’m currently learning TypeScript and Next.js</p>
+
+###
+
+<p align="left">👯 I’m looking to collaborate on building websites and learning new tech</p>
 
 ###
