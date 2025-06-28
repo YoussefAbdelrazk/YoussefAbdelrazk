@@ -1,4 +1,43 @@
-<h2 align="left">Hi 👋! My name is Youssef Abdelrazk and I'm a Frontend Devloper, from Assiut</h2>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Youssef Abdelrak</h1></summary>
+  </ul>
+</div>
+
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
+
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Creative Front-End Developer with a Passion for Building Web Experiences</h2></summary>
+  </ul>
+</div>
+
+<!--Intro start-->
+- 🧑‍🎓 Graduated from Computer Science.
+
+- 💻 Front-End Developer at **Catalyst Marketing Agency** .
+
+- 🌱 I’m currently learning **TypeScript and Next.js**.
+
+- 👯 I’m looking to collaborate on **building websites and learning new tech**.
+
+- 💬 Ask me about **Front-End Development with React.js**.
+
+- 📄 Check out my portfolio: [YoussefAbdelrazk](https://youssefabdelrazk-portfolio.vercel.app/)
+
+- 📫 Reach me: **youssefabdelrazk2002@gmail.com**
+
+<!--Intro end-->
 
 ###
 
@@ -7,43 +46,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YoussefAbdelrazk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" height="30" alt="appwrite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-</div>
+### 
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,bootstrap,materialui,tailwind,sass,nodejs,mongodb,mysql,git,docker,linux,figma,vscode,java,c&perline=14" />
+  </a>
+</p>
 
 ###
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -54,22 +66,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/YoussefAbdelrazk/YoussefAbdelrazk/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
-<p align="left">🧑‍🎓 I have a Bachelor’s in Computer Science</p>
 
-###
-
-<p align="left">💻 Front-End Developer at Catalyst Marketing Agency</p>
-
-###
-
-<p align="left">🌱 I’m currently learning TypeScript and Next.js</p>
-
-###
-
-<p align="left">👯 I’m looking to collaborate on building websites and learning new tech</p>
-
-###
