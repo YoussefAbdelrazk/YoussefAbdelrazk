@@ -50,7 +50,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,bootstrap,materialui,tailwind,sass,nodejs,mongodb,mysql,git,docker,linux,figma,vscode,java,c&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,bootstrap,materialui,tailwind,sass,nodejs,mongodb,git,figma,vscode,c&perline=14" />
   </a>
 </p>
 
@@ -65,11 +65,6 @@
 </div>
 
 ###
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
 
 
 
