@@ -1,68 +1,65 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTU3ODA5NTQsIm5iZiI6MTc1NTc4MDY1NCwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODIxVDEyNTA1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFlNDUzMjViNDI0NjVjM2Q3NWZkMzI1Zjk3M2RkZjkzMWZhNGJjNDM1ODE3NmZmMWZhNjBiOTZlZDMwYzUxMWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.gqdCdtYV-lP_U4qm1OcbeOkKESipAVdzOYc6OJDPNSY">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Youssef Abdelrak</h1></summary>
-  </ul>
-</div>
-
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Creative Front-End Developer with a Passion for Building Web Experiences</h2></summary>
-  </ul>
-</div>
-
-<!--Intro start-->
-- 🧑‍🎓 Graduated from Computer Science.
-
-- 💻 Front-End Developer at **Catalyst Marketing Agency** .
-
-- 🌱 I’m currently learning **TypeScript and Next.js**.
-
-- 👯 I’m looking to collaborate on **building websites and learning new tech**.
-
-- 💬 Ask me about **Front-End Development with React.js**.
-
-- 📄 Check out my portfolio: [YoussefAbdelrazk](https://youssefabdelrazk-portfolio.vercel.app/)
-
-- 📫 Reach me: **youssefabdelrazk2002@gmail.com**
-
-<!--Intro end-->
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YoussefAbdelrazk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YoussefAbdelrazk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-### 
-<!--tech stack icons-->
+<!-- Creative Banner -->
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,bootstrap,materialui,tailwind,sass,nodejs,mongodb,git,figma,vscode,c&perline=14" />
-  </a>
+ <img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTU3ODA5NTQsIm5iZiI6MTc1NTc4MDY1NCwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODIxVDEyNTA1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFlNDUzMjViNDI0NjVjM2Q3NWZkMzI1Zjk3M2RkZjkzMWZhNGJjNDM1ODE3NmZmMWZhNjBiOTZlZDMwYzUxMWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.gqdCdtYV-lP_U4qm1OcbeOkKESipAVdzOYc6OJDPNSY">
 </p>
 
-###
 
 
+<!-- Typing Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=650&lines=👋+Hi%2C+I'm+Youssef+Abdelrazk;🎨+Creative+Front-End+Developer;⚛️+React+%7C+Next.js+Specialist;🚀+Building+Modern+Web+Experiences" alt="Typing SVG" />
+</p>
 
+---
 
+## 👨‍💻 About Me  
+✨ Passionate about creating **beautiful, responsive, and interactive web experiences**.  
+🌱 Currently mastering **TypeScript & Next.js**.  
+💼 Front-End Developer @ **Catalyst Marketing Agency**.  
+🎓 Computer Science Graduate.  
+🌍 Portfolio → [youssefabdelrazk-portfolio.vercel.app](https://youssefabdelrazk-portfolio.vercel.app/)  
+📬 Reach me → **youssefabdelrazk2002@gmail.com**  
 
+---
 
+## ⚡ Tech Arsenal  
 
-###
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,materialui,sass,nodejs,mongodb,git,figma,vscode,c&perline=9" />
+</p>
 
+---
 
+## 📊 GitHub Insights  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YoussefAbdelrazk&show_icons=true&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YoussefAbdelrazk&theme=radical&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YoussefAbdelrazk&theme=github-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🏆 Achievements  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YoussefAbdelrazk&theme=discord&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 🎨 A Touch of Fun  
+
+<p align="center">
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg" />
+</p>
+
+---
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00D4,100:EEFF00&height=120&section=footer"/>
+</p>
