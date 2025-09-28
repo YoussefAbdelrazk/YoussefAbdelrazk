@@ -17,6 +17,7 @@
 🌱 Currently mastering **TypeScript & Next.js**.  
 💼 Front-End Developer @ **Catalyst Marketing Agency**.  
 💼 Next Js Developer @ **JEDRA**. 
+
 🎓 Computer Science Graduate.  
 🌍 Portfolio → [youssefabdelrazk-portfolio](https://youssef-portfoliio.vercel.app/)  
 📬 Reach me → **youssefabdelrazk2002@gmail.com**  
